@@ -21,13 +21,10 @@ public class MathServicePublisher implements CommandLineRunner {// classe serveu
 
     @Override
     public void run(String... args) throws Exception {
-
-
-        Endpoint.publish(SERVICE_URI, mathService);
+        Endpoint. publish(SERVICE_URI, mathService);
         System.err.println("Web Service successfully published at: " +
                 SERVICE_URI);
-        System.err.println("Server ready!");
-
+        System.err.println("Server");
     }
 
 }
