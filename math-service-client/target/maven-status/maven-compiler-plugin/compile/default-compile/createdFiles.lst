@@ -1,0 +1,15 @@
+com/fadel/example/math_service/main/MathServiceClientApplication.class
+com/fadel/example/math_service/config/MathServiceConfig.class
+com/fadel/example/math_service/client/ObjectFactory.class
+com/fadel/example/math_service/ui/MathServiceCLI.class
+com/fadel/example/math_service/client/MathServiceImplService.class
+com/fadel/example/math_service/client/DivideResponse.class
+com/fadel/example/math_service/client/MathService.class
+com/fadel/example/math_service/client/Divide.class
+com/fadel/example/math_service/client/Subtract.class
+com/fadel/example/math_service/client/Multiply.class
+com/fadel/example/math_service/client/Add.class
+com/fadel/example/math_service/client/SubtractResponse.class
+com/fadel/example/math_service/client/AddResponse.class
+com/fadel/example/math_service/client/package-info.class
+com/fadel/example/math_service/client/MultiplyResponse.class

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d445acfb-ad5c-4240-8b5a-31e83d1fbbfd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/Add.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/AddResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/AddResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/Divide.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/Divide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/DivideResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/DivideResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/MathService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/MathService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/MathServiceImplService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/MathServiceImplService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/Multiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/Multiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/MultiplyResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/MultiplyResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/ObjectFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/ObjectFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/Subtract.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/Subtract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/SubtractResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/SubtractResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/package-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/client/package-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/config/MathServiceConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/config/MathServiceConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/main/MathServiceClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/main/MathServiceClientApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/ui/MathServiceCLI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service-client/target/classes/com/fadel/example/math_service/ui/MathServiceCLI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service/src/main/java/com/fadel/example/math_service/publisher/MathServicePublisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service/src/main/java/com/fadel/example/math_service/publisher/MathServicePublisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet/math-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../architectures_distribuées/SOAP/SOAP_projet" />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="corretto-1.8" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nz3cKi4wgl9u4p23MzIfxn2ojO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MathServiceClientApplication.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.MathServiceClientApplication.executor": "Run",
+    "git-widget-placeholder": "question1",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.18217054",
+    "project.structure.side.proportion": "0.08417511",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MathServiceClientApplication">
+    <configuration name="MathServiceClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fadel.example.math_service.main.MathServiceClientApplication" />
+      <module name="math-service-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fadel.example.math_service.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathServiceClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="math-service-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fadel.example.math_service.main.MathServiceClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MathServiceClientApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d445acfb-ad5c-4240-8b5a-31e83d1fbbfd" name="Changes" comment="" />
+      <created>1729962155361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729962155361</updated>
+      <workItem from="1729962156985" duration="1806000" />
+      <workItem from="1730711826685" duration="614000" />
+      <workItem from="1730713218066" duration="799000" />
+      <workItem from="1730714024758" duration="2474000" />
+      <workItem from="1731243107206" duration="1792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
